@@ -12,3 +12,4 @@ Panda Tasks is a lightweight, session-based task manager built with pure PHP. Wi
 - 🎋 Task data stored in PHP sessions (no database needed)
 - 🍭 Cute and responsive UI with animations and panda vibes
 - 💡 Simple, clean code for learning or quick demos
+
